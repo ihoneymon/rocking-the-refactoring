@@ -27,6 +27,8 @@ tmp/
 local.properties
 .settings/
 .loadpath
+.project
+.classpath
 
 # External tool builders
 .externalToolBuilders/
@@ -79,3 +81,4 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 
 
+/build
